@@ -1,0 +1,22 @@
+body {
+    background-image: url("bgPortfolio.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#menu {
+    background-color: white;
+    padding: 25px;
+    text-align: center;
+    width: 600px;
+    height: 825px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px rgb(29, 45, 89);
+}
+
+#nomeMenu {
+    text-align: center;
+    margin-top: 1px;
+}
