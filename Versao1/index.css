@@ -7,7 +7,7 @@ body {
     background-repeat: no-repeat;
 }
 
-#menu {
+.menu {
     background-color: rgb(235, 235, 235);
     padding: 25px;
     text-align: center;
@@ -19,14 +19,14 @@ body {
     box-shadow: 5px 5px 15px rgb(29, 45, 89);
 }
 
-#nomeMenu {
+.nomeMenu {
     text-align: center;
     margin-top: 1px;
     font-family: 'Work Sans', sans-serif;
     font-size: 30px;
 }
 
-#minhaFoto {
+.minhaFoto {
     border-radius: 50%;
     height: 200px;
     width: 200px;
@@ -34,18 +34,18 @@ body {
     box-shadow: 3px 3px 10px rgb(64, 64, 64);
 }
 
-#resumo {
+.resumo {
     font-family: 'Work Sans', sans-serif;
     margin-left: 1px;
 
 }
 
-#habilidades {
+.habilidades {
     text-align: left;
     font-size: 25px;
 }
 
-#lista1 {
+.lista1 {
     text-align: left;
 }
 
@@ -75,6 +75,8 @@ body {
     padding: 0px 50px;
     font-family: 'Work Sans', sans-serif;
     font-size: 13pt;
+    cursor: pointer;
+    
 }
 
 #botaoLink {
@@ -87,4 +89,6 @@ body {
     padding: 0px 50px;
     font-family: 'Work Sans', sans-serif;
     font-size: 13pt;
+    cursor: pointer;
 }
+
