@@ -8,11 +8,11 @@ body {
 }
 
 #menu {
-    background-color: white;
+    background-color: rgb(235, 235, 235);
     padding: 25px;
     text-align: center;
     width: 600px;
-    height: 825px;
+    height: 1200px;
     margin: auto;
     margin-top: 50px;
     border-radius: 25px;
@@ -38,4 +38,53 @@ body {
     font-family: 'Work Sans', sans-serif;
     margin-left: 1px;
 
+}
+
+#habilidades {
+    text-align: left;
+    font-size: 25px;
+}
+
+#lista1 {
+    text-align: left;
+}
+
+#iconHTML {
+    color: rgb(225, 0, 0);
+}
+#iconCSS {
+    color: rgb(0, 102, 255);
+}
+#iconJS {
+    color: rgb(231, 199, 16);
+}
+#iconPS {
+    color: rgb(0, 0, 187);
+}
+#iconGIT {
+    color: rgb(120, 0, 0);
+}
+
+#botaoFoto {
+    height: 50px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 7px rgb(29, 45, 89);
+    background-color: #F1AA8C;
+    border-color: rgba(0, 0, 0, 0.516);
+    margin-left: 1px;
+    padding: 0px 50px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 13pt;
+}
+
+#botaoLink {
+    height: 50px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 7px rgb(29, 45, 89);
+    background-color: #F1AA8C;
+    border-color: rgba(0, 0, 0, 0.51);
+    margin-left: 100px;
+    padding: 0px 50px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 13pt;
 }
