@@ -74,7 +74,7 @@ body {
     border-radius: 15px;
     box-shadow: 2px 2px 7px rgb(29, 45, 89);
     background-color: #F1AA8C;
-    border-color: rgba(0, 0, 0, 0.516);
+    border-style: none;
     margin-left: 1px;
     padding: 0px 50px;
     font-family: 'Work Sans', sans-serif;
@@ -89,7 +89,7 @@ body {
     border-radius: 15px;
     box-shadow: 2px 2px 7px rgb(29, 45, 89);
     background-color: #F1AA8C;
-    border-color: rgba(0, 0, 0, 0.51);
+    border-style: none;
     margin-left: 100px;
     padding: 0px 50px;
     font-family: 'Work Sans', sans-serif;
@@ -146,4 +146,5 @@ a:hover {
     cursor: pointer;
     font-size: 12pt;
     letter-spacing: 1.5px;
+    border-style: none;
 }
