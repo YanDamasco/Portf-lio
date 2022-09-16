@@ -8,11 +8,11 @@ body {
 }
 
 .menu {
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(245, 245, 245);
     padding: 25px;
     text-align: center;
     width: 600px;
-    height: 1200px;
+    height: 1400px;
     margin: auto;
     margin-top: 50px;
     border-radius: 25px;
@@ -43,10 +43,12 @@ body {
 .habilidades {
     text-align: left;
     font-size: 25px;
+    font-family: 'Work Sans', sans-serif;
 }
 
 .lista1 {
     text-align: left;
+    font-family: 'Work Sans', sans-serif;
 }
 
 #iconHTML {
@@ -92,3 +94,24 @@ body {
     cursor: pointer;
 }
 
+.lista2 {
+    list-style-type: none;
+    text-align: left;
+    margin-left: 218px;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(54, 127, 230);
+}
+
+.redesSociais {
+    font-size: 25px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(71, 141, 220);
+}
+
+a:hover {
+    color: rgb(72, 49, 205);
+}
