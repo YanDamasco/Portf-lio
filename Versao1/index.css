@@ -12,7 +12,7 @@ body {
     padding: 25px;
     text-align: center;
     width: 600px;
-    height: 1400px;
+    height: 1770px;
     margin: auto;
     margin-top: 50px;
     border-radius: 25px;
@@ -37,18 +37,20 @@ body {
 .resumo {
     font-family: 'Work Sans', sans-serif;
     margin-left: 1px;
-
+    font-size: 15pt;
 }
 
 .habilidades {
     text-align: left;
     font-size: 25px;
     font-family: 'Work Sans', sans-serif;
+    letter-spacing: 1.5px;
 }
 
 .lista1 {
     text-align: left;
     font-family: 'Work Sans', sans-serif;
+    letter-spacing: 1.5px;
 }
 
 #iconHTML {
@@ -78,6 +80,7 @@ body {
     font-family: 'Work Sans', sans-serif;
     font-size: 13pt;
     cursor: pointer;
+    letter-spacing: 1.5px;
     
 }
 
@@ -92,6 +95,7 @@ body {
     font-family: 'Work Sans', sans-serif;
     font-size: 13pt;
     cursor: pointer;
+    letter-spacing: 1.5px;
 }
 
 .lista2 {
@@ -105,13 +109,41 @@ body {
 .redesSociais {
     font-size: 25px;
     font-family: 'Work Sans', sans-serif;
+    letter-spacing: 1.5px;
 }
 
 a {
     text-decoration: none;
     color: rgb(71, 141, 220);
+    letter-spacing: 1.5px;
 }
 
 a:hover {
     color: rgb(72, 49, 205);
+}
+
+.frasePensador {
+    font-family: 'Work Sans', sans-serif;
+    letter-spacing: 1px;
+    font-size: 15pt;
+}
+
+.fotoTecnologia {
+    width: 500px;
+    text-align: center;
+    border-radius: 5%;
+    box-shadow: 3px 3px 10px;
+}
+
+.botaoTopo {
+    height: 50px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 7px rgb(29, 45, 89);
+    background-color: #F1AA8C;
+    border-color: rgba(0, 0, 0, 0.51);
+    font-family: 'Work Sans', sans-serif;
+    padding: 0px 50px;
+    cursor: pointer;
+    font-size: 12pt;
+    letter-spacing: 1.5px;
 }

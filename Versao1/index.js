@@ -6,3 +6,6 @@ function clicar2() {
     window.open("https://jovemnerd.com.br/", '_blank')
 }
     
+function voltarTopo() {
+    window.scrollTo(0, 0);
+}
